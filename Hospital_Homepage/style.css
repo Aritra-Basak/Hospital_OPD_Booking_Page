@@ -1,0 +1,29 @@
+.formbg{
+    background-color:#c5e3f6;
+
+}
+
+.name_row{
+    display: flex;
+    align-items: center;
+}
+
+.container_form{
+    max-width: 50%;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.overlay_img2{
+    position: absolute;
+    top: 360px;
+    left: 40px;
+}
+
+h3{
+    color: #002651;
+}
+
+.form-row{
+    padding-left: 1.5rem;
+}
